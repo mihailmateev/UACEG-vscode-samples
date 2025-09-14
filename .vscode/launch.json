@@ -4,13 +4,13 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-
+      
 {
       "name": ".NET Launch (console)",
       "type": "coreclr",
       "request": "launch",
-      "program": "${workspaceFolder}/bin/Debug/net9.0/HelloWorld.dll"
-      //"project": "${workspaceFolder}/HelloWorld.csproj",
+      "program": "${workspaceFolder}/bin/Debug/net9.0/HelloWorld.dll",
+      "project": "${workspaceFolder}/HelloWorld.csproj",
       "console": "integratedTerminal",
       "stopAtEntry": false,
       "args": [],
